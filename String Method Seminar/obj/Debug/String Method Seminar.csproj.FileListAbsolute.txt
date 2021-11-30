@@ -1,0 +1,10 @@
+D:\Vs\String Method Seminar\String Method Seminar\bin\Debug\String Method Seminar.exe.config
+D:\Vs\String Method Seminar\String Method Seminar\bin\Debug\String Method Seminar.exe
+D:\Vs\String Method Seminar\String Method Seminar\bin\Debug\String Method Seminar.pdb
+D:\Vs\String Method Seminar\String Method Seminar\obj\Debug\String Method Seminar.csproj.AssemblyReference.cache
+D:\Vs\String Method Seminar\String Method Seminar\obj\Debug\String_Method_Seminar.Form1.resources
+D:\Vs\String Method Seminar\String Method Seminar\obj\Debug\String_Method_Seminar.Properties.Resources.resources
+D:\Vs\String Method Seminar\String Method Seminar\obj\Debug\String Method Seminar.csproj.GenerateResource.cache
+D:\Vs\String Method Seminar\String Method Seminar\obj\Debug\String Method Seminar.csproj.CoreCompileInputs.cache
+D:\Vs\String Method Seminar\String Method Seminar\obj\Debug\String Method Seminar.exe
+D:\Vs\String Method Seminar\String Method Seminar\obj\Debug\String Method Seminar.pdb
